@@ -1,4 +1,4 @@
-Hi👋 My name is Peter Wang and I'm currently a 4-th year at Georgia Institute of Technology studing Computer Science. My current concentrations are on machine learning and I'm always trying to improve my techstack
+Hi👋 My name is Peter Wang and I'm currently a 4-th year at Georgia Institute of Technology studing Computer Science. My current concentrations are on machine learning and I'm always trying to improve my techstack.
 
 
 - 🔭 I’m currently looking for a Full-Time Position
