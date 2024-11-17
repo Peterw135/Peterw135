@@ -2,7 +2,8 @@ Hi👋 My name is Peter Wang and I'm currently a 4th year at Georgia Institute o
 
 
 - 🔭 I’m currently looking for a Full-Time Position
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- 📘 I’m currently studying Machine Learning and Artificial Intelligence
+- 🌱 I'm currently learning flask
 - 📫 How to reach me: pwang393@gatech.edu
 
 <h4>Worked With:</h4>
