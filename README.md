@@ -6,6 +6,7 @@ Hi👋 My name is Peter Wang and I'm currently a 4th year at Georgia Institute o
 - 📫 How to reach me: pwang393@gatech.edu
 
 <h4>Worked With:</h4>
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,flask)](https://skillicons.dev) <br>
